@@ -9,14 +9,6 @@ Este é um aplicativo simples de Lista de Tarefas desenvolvido em Flutter. O obj
 
 ---
 
-## Colaboradores
-
-- Mariana Veiga Dos Santos
-- Vitor Thomé
-- João Vitor Herzer De Sousa
-
----
-
 ## Funcionalidades
 
 - Exibe uma lista inicial de tarefas de aprendizado.
@@ -25,7 +17,8 @@ Este é um aplicativo simples de Lista de Tarefas desenvolvido em Flutter. O obj
 
 ---
 
-## Como rodar o projeto
+## Colaboradores
 
-1. Certifique-se de ter o Flutter instalado. 
-2. Clone este repositório.
+- Mariana Veiga Dos Santos
+- Vitor Thomé
+- João Vitor Herzer De Sousa
